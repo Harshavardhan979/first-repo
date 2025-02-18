@@ -86,3 +86,11 @@ margin-bottom: 10px;
 .last a:hover{
     text-decoration: underline;
 }
+.hide a{
+    color: white;
+    text-decoration: none;
+}
+.hide{
+    font-size: large;
+    text-align: center;
+}
