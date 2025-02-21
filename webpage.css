@@ -1,0 +1,52 @@
+
+
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.ram{
+    background-color: #a2facd;
+    height: 130px;
+    width: 370px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 450px;
+    border-radius: 20px;
+
+}
+.Personal{
+ padding-top: 20px;
+
+}
+.Personal:hover{
+    text-decoration: underline cadetblue;
+    text-transform: lowercase;
+    
+}
+.mitul{
+    background-color:#40E0D0 ;
+    height: 160px;
+    width: 370px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 450px;
+    border-radius: 20px;
+    
+    
+
+}
+.Media {
+    padding-top: 10px;
+   font-size: 30px;
+ 
+
+}
+.Media a{
+    padding-top: 20px;
+    padding-bottom: 30px;
+text-decoration: none;
+font-size: 28px;
+}
+.Media a:hover{
+text-decoration:underline chocolate;
+}
